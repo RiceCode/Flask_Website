@@ -1,6 +1,6 @@
 # Web Programming with Python and JavaScript Project 1
 <br>
-A book review websdite written with the flask framework. This site allows site members to login in, search for a specific book, and write a review. More advanced users can use the API to gather information about a specific book. 
+A book review website written with the flask framework. This site allows site members to login in, search for a specific book, and write a review. More advanced users can use the API to gather information about a specific book. 
 <br>
 <br>
 books.csv - A csv file with book information (isbn, title, author, year). This csv file will be imported into SQL table named "books". <br>
